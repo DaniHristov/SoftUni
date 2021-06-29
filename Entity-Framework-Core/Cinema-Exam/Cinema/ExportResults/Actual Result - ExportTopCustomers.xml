@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Customers>
+  <Customer FirstName="Randi" LastName="Ferraraccio">
+    <SpentMoney>63.39</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Duff" LastName="Honig">
+    <SpentMoney>59.65</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Bondy" LastName="Linsay">
+    <SpentMoney>39.26</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Boris" LastName="Bennike">
+    <SpentMoney>27.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Lloyd" LastName="Guerrieri">
+    <SpentMoney>20.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Trudi" LastName="Whitlock">
+    <SpentMoney>23.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Garreth" LastName="Leys">
+    <SpentMoney>27.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Tilda" LastName="Laugherane">
+    <SpentMoney>16.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Merle" LastName="Pinnell">
+    <SpentMoney>20.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Jerrie" LastName="O\'Carroll">
+    <SpentMoney>67.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Karyn" LastName="Sunshine">
+    <SpentMoney>27.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Obed" LastName="Rennles">
+    <SpentMoney>22.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Caritta" LastName="MacNeilley">
+    <SpentMoney>16.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Allayne" LastName="Yankishin">
+    <SpentMoney>27.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Marlyn" LastName="Westcar">
+    <SpentMoney>27.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Gretna" LastName="Bellham">
+    <SpentMoney>22.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Base" LastName="Feander">
+    <SpentMoney>16.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Liane" LastName="Caherny">
+    <SpentMoney>22.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Janet" LastName="Matchett">
+    <SpentMoney>16.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Hyatt" LastName="Lorking">
+    <SpentMoney>20.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Timoteo" LastName="Achromov">
+    <SpentMoney>23.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Corrinne" LastName="Von Oertzen">
+    <SpentMoney>27.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Rorie" LastName="La Torre">
+    <SpentMoney>22.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Etty" LastName="Stockow">
+    <SpentMoney>31.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Jillian" LastName="Galvin">
+    <SpentMoney>27.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Whit" LastName="Bidwell">
+    <SpentMoney>23.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Halette" LastName="Lubeck">
+    <SpentMoney>27.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Marjy" LastName="Starbeck">
+    <SpentMoney>82.65</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Elmo" LastName="Mehew">
+    <SpentMoney>22.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Zack" LastName="Sellers">
+    <SpentMoney>16.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Marcellus" LastName="Stove">
+    <SpentMoney>20.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Blinnie" LastName="Kundert">
+    <SpentMoney>23.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Eula" LastName="Bettlestone">
+    <SpentMoney>22.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Celestine" LastName="Skells">
+    <SpentMoney>16.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Mercedes" LastName="Gertray">
+    <SpentMoney>23.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Bruno" LastName="Doone">
+    <SpentMoney>45.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Grace" LastName="Skerritt">
+    <SpentMoney>15.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Ray" LastName="MacDearmid">
+    <SpentMoney>16.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Cornall" LastName="Winborn">
+    <SpentMoney>11.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Mariejeanne" LastName="Varden">
+    <SpentMoney>27.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Elly" LastName="Pittson">
+    <SpentMoney>34.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Artemus" LastName="Legate">
+    <SpentMoney>22.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Henrie" LastName="Jurges">
+    <SpentMoney>53.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Evangelia" LastName="Faustian">
+    <SpentMoney>31.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Tallulah" LastName="McVeighty">
+    <SpentMoney>16.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Garry" LastName="Blackeby">
+    <SpentMoney>42.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Franky" LastName="Condit">
+    <SpentMoney>16.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Caralie" LastName="Longthorn">
+    <SpentMoney>23.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Jermayne" LastName="Philimore">
+    <SpentMoney>9.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Taryn" LastName="Ripper">
+    <SpentMoney>15.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Rhoda" LastName="Haysom">
+    <SpentMoney>9.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Chanda" LastName="Fryer">
+    <SpentMoney>12.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Belinda" LastName="Fraanchyonok">
+    <SpentMoney>34.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Tibold" LastName="Briztman">
+    <SpentMoney>34.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Alex" LastName="Petriello">
+    <SpentMoney>16.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Berry" LastName="Simononsky">
+    <SpentMoney>11.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Jena" LastName="Baudinelli">
+    <SpentMoney>15.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Ofilia" LastName="Binford">
+    <SpentMoney>9.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Walt" LastName="Prendeville">
+    <SpentMoney>22.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Sabina" LastName="Kirvell">
+    <SpentMoney>9.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Chuck" LastName="Udall">
+    <SpentMoney>12.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Mackenzie" LastName="Saddleton">
+    <SpentMoney>7.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Arluene" LastName="Farman">
+    <SpentMoney>15.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Faustina" LastName="Gully">
+    <SpentMoney>9.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Queenie" LastName="Schroeder">
+    <SpentMoney>23.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Marje" LastName="Boutflour">
+    <SpentMoney>15.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Jerrome" LastName="Pucknell">
+    <SpentMoney>9.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Marty" LastName="Arson">
+    <SpentMoney>12.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Sargent" LastName="Sandbrook">
+    <SpentMoney>11.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Donica" LastName="Fossey">
+    <SpentMoney>15.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Doe" LastName="Westbrook">
+    <SpentMoney>9.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Davita" LastName="Lister">
+    <SpentMoney>12.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Denny" LastName="Plaice">
+    <SpentMoney>11.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Glenna" LastName="Gibbs">
+    <SpentMoney>15.00</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+  <Customer FirstName="Millisent" LastName="Hoyt">
+    <SpentMoney>9.13</SpentMoney>
+    <SpentTime>0</SpentTime>
+  </Customer>
+</Customers>
